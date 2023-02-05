@@ -1,12 +1,10 @@
 package com.example;
 
 import java.util.Scanner;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+
 
 public class JavaExceptions {
+    //מצגת 29 עמוד 21-22
     public static int job(String jobTitle){
         if (!jobTitle.equals("Fullstack") && !jobTitle.equals("Backend") && !jobTitle.equals("Frontend")){
             throw new IllegalArgumentException("The provided job title is unsupported");

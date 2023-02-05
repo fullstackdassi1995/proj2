@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class JavaLoops {
+    //מצגת 27 עמוד 23
     public static void myFor() {
 
         Random rand = new Random();

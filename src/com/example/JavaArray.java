@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class JavaArray {
+    //מצגת 27 עמוד 10
     public static void arrays() {
         String[] arrS = {"a", "b", "c", "d", "e"};
         int[] arrI = {1, 2, 3, 4, 5};

@@ -5,6 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Random;
 
 public class JavaMath {
+    //מצגת 26 עמוד 22
 
     public static void random1() {
         int a = (int) (Math.random() * 4) + 1;

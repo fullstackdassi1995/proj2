@@ -1,6 +1,8 @@
 package com.example;
 import java.util.Arrays;
 import java.util.Random;
+
+//מצגת 28 עמוד 7
 public class BreakAndContinue {
     public static void iLike(String[] arr){
         //I understood that you need to change random places:

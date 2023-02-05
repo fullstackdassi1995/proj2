@@ -3,6 +3,7 @@ package com.example;
 import java.util.Arrays;
 
 public class  JavaString {
+    //מצגת 26 עמוד 11-12
     public static void myName() {
         String fullName = "david.goldberg";
         String[] piece = fullName.split("[.]");

@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         JavaExceptions.sumWork();
     }
-
+//תרגילים ידניים שאיתי נתן, לא במצגות (שיעור 30/1/2023)
 
     public static void capital(){
         Scanner s = new Scanner(System.in);
@@ -71,7 +71,6 @@ public class Main {
         }
 
     }
-
 
 }
 

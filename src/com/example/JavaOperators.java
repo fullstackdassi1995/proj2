@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
 public class JavaOperators {
+    //מצגת 25 עמוד 25
     public static void fruit(String s) {
         switch (s) {
             case "Mandarin":
